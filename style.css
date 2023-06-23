@@ -78,5 +78,8 @@ a {
 }
 
 #wave {
-  margin-bottom: 0px;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
 }
